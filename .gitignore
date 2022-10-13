@@ -1,2 +1,8 @@
-backend/Lative.Discount.**/obj/
-backend/Lative.Discount.**/bin/
+backend/Lative.Discount.API/obj/
+backend/Lative.Discount.API/bin/
+backend/Lative.Discount.Domain/obj/
+backend/Lative.Discount.Domain/bin/
+backend/Lative.Discount.Infrastructure/obj/
+backend/Lative.Discount.Infrastructure/bin/
+backend/Lative.Discount.UnitTests/obj/
+backend/Lative.Discount.UnitTests/bin/
