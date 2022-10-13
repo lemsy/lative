@@ -4598,11 +4598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.UnitTests\\Lative.Discounts.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.UnitTests\\Lative.Discounts.UnitTests.csproj",
       "projectName": "Lative.Discounts.UnitTests",
-      "projectPath": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.UnitTests\\Lative.Discounts.UnitTests.csproj",
+      "projectPath": "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.UnitTests\\Lative.Discounts.UnitTests.csproj",
       "packagesPath": "C:\\Users\\ISMEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ISMEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4619,11 +4619,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.Domain\\Lative.Discounts.Domain.csproj": {
-              "projectPath": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.Domain\\Lative.Discounts.Domain.csproj"
+            "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.Domain\\Lative.Discounts.Domain.csproj": {
+              "projectPath": "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.Domain\\Lative.Discounts.Domain.csproj"
             },
-            "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.Infrastructure\\Lative.Discounts.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.Infrastructure\\Lative.Discounts.Infrastructure.csproj"
+            "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.Infrastructure\\Lative.Discounts.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.Infrastructure\\Lative.Discounts.Infrastructure.csproj"
             }
           }
         }

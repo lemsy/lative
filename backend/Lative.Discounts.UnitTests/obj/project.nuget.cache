@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8Qab5/pDA1USUD5wtCy1YW77Tz+SZYnRIEwtKxB4jpGGjF4Re1nq4HFg0qJT5fO72HOa9eYeRKF+sFeDCE5Bg==",
+  "dgSpecHash": "yel8yJUBroNmb/68p3zBVbYgKJqQXkS/apqPz9FOD1Gqwj8iGbLg1O5V3WHxaU+TiSGuTl13aAur8WXYtdBu8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.UnitTests\\Lative.Discounts.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.UnitTests\\Lative.Discounts.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ISMEL\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ISMEL\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",

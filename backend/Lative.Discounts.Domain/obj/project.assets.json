@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.Domain\\Lative.Discounts.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.Domain\\Lative.Discounts.Domain.csproj",
       "projectName": "Lative.Discounts.Domain",
-      "projectPath": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.Domain\\Lative.Discounts.Domain.csproj",
+      "projectPath": "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.Domain\\Lative.Discounts.Domain.csproj",
       "packagesPath": "C:\\Users\\ISMEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ISMEL\\Code\\lative\\lative\\backend\\Lative.Discounts.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ISMEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
