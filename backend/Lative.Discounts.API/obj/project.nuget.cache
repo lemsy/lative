@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lneYfbp7pwHvwHUHLyEnJBSYEJUcJVMoLbR8ifZoU0wTsWJDx1hxAhl82ec9f3sT3rOjiNUpG6nS5WCXcBMsQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ISMEL\\Code\\lative\\project\\backend\\Lative.Discounts.API\\Lative.Discounts.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ISMEL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ISMEL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ISMEL\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ISMEL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ISMEL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ISMEL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

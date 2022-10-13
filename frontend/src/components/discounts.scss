@@ -1,0 +1,38 @@
+.discounts-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    max-width: 90rem;
+    padding: 0rem 3rem;
+    margin: auto;
+}
+
+.card {
+    width: 30%;
+}
+
+.card-header {
+    background-color: #119fc3;
+    color: white;
+}
+
+.card-body {
+    background-color: #ffffffe1;
+    color: #000;
+}
+
+/* Tablet */
+@media only screen and (max-width: 768px) {
+    .card {
+        width: 40%;
+    }
+}
+
+/* Phone */
+@media only screen and (max-width: 576px) {
+    .card {
+        width: 90%;
+    }
+}
